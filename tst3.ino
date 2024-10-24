@@ -6,12 +6,9 @@
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 
-const char* ssid = "DISPOSITIVOS";
-const char* password = "Sp33dc@st99";
-//const char* ssid = "SPEEDCAST - OPERACIONAL";
-//const char* password = "Ac3ss02019";
-//const char* ssid = "EUTELSAT";
-//const char* password = "eutelsat";
+const char* ssid = "your SSid";
+const char* password = "Your password";
+
 
 
 #define DHTPIN1 D1  
